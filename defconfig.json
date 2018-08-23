@@ -1,0 +1,11 @@
+{
+	"token": "discord token here",
+	"notifPath": ["..","twitchbot","notifs.json"],
+	"_comment_": "array of directories to get to notifs.json, must be relative path",
+	"twitch":{
+		"Client-ID": "applicaiton client id",
+		"Authorization": "Bearer <client secret>",
+		"User-Agent":"TWMetrics (v5)",
+		"Accept":"application/vnd.twitchtv.v5+json"
+	}
+}

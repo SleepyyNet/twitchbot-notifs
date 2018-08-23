@@ -1,0 +1,14 @@
+{
+  "name": "twitchbot-notifs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Shana6",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "jsonfile": "^4.0.0",
+    "lodash.foreach": "^4.5.0",
+    "request": "^2.88.0"
+  }
+}
